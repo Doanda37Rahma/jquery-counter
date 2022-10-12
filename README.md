@@ -1,1 +1,1 @@
-# pweb-jquery-counter
+jquery-counter
